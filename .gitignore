@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+simul8_*.csv
+simul8_*.md
+simul8_*.html
+.env
